@@ -1,6 +1,3 @@
-# Next-Word-Prediction-using-LSTM
-
-## AIM
 
 # Next-Word-Prediction-using-LSTM
 
